@@ -7,6 +7,7 @@ firebase.auth().onAuthStateChanged(user => {
 })
 
 */
+//Comando acima foi para direcionado para "logged-in.js"
 
 function onChangeEmail() {
     toogleButtonDisable();

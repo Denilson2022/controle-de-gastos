@@ -82,6 +82,27 @@ button[disabled]
 {
     opacity: 0.5;
 }
+button.fab
+{
+    width: 54px;
+    height: 54px;
+    border-radius: 50px;
+    border: none;
+    font-size: 24px;
+    box-shadow: 2px 2px 2px gray;
+}
+button.fixed
+{
+    position: fixed;
+}
+button.bottom
+{
+    bottom: 32px;
+}
+button.right
+{
+    right: 32px;
+}
 
 .error
 {

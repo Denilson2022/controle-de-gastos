@@ -7,6 +7,9 @@ firebase.auth().onAuthStateChanged(function(user) {
 })
 
 */
+//Comando acima foi para direcionado para "logged-in.js"
+
+
 
 function onChangeEmail() {
     const email = form.email().value;
